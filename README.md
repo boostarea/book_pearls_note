@@ -1,4 +1,4 @@
-# programming pearls
+# programming Pearls Second Edition
 #### 确实是一本可以影响整个职业生涯的书
 
 1. 位图数据结构：
